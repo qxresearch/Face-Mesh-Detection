@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/qxresearch/Face-Mesh-Detection/blob/main/Images/i.png" alt="sam" width="250" height="250">
+    <img src="https://github.com/qxresearch/Face-Mesh-Detection/blob/main/Images/i.png" alt="sam" width="300" height="300">
   </a>
   <h3 align="center">Face Mest Detection</h3>
   <p align="center"> 
