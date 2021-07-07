@@ -30,3 +30,5 @@ YouTube : [@qxresearch/mediapipe-face-mesh]()
 Live Demo : [Your-face-mesh]()
 
 Tags : `mediapipe` `face-mesh` `openCV` `python` `facial-landmark-detection`
+
+Google Colab : https://colab.research.google.com/drive/1o-Q_jhZI25Gl2lCTTHKsQWktLZgaNF_Z?usp=sharing
