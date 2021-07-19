@@ -18,10 +18,19 @@
 MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices. It employs machine learning (ML) to infer the 3D surface geometry, requiring only a single camera input without the need for a dedicated depth sensor. Utilizing lightweight model architectures together with GPU acceleration throughout the pipeline, the solution delivers real-time performance critical for live experiences.
 
 <p align="center">
+  Results : Static Image
+</p>
+
+<p align="center">
   <a href="https://mediapipe.dev">
     <img src="https://github.com/qxresearch/Face-Mesh-Detection/blob/main/Images/j.png" alt="Logo">
   </a>
 </p>
+
+<p align="center">
+  Results : Video
+</p>
+
 
 Using mediapipe we will estimate 468 face landmarks in live video, which could be really helpful in AR effects utilizing facial surface geometry and face recognition. In the demo website you'll be able to see your unique facial landmarks. In this project we've also used partial static image to discovere as much landmarks as possible.
 
