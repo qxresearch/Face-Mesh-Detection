@@ -14,6 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/xiaowuc2?style=social)]("https://github.com/xiaowuc2")
   [![Twitter Follow](https://img.shields.io/twitter/follow/qxresearchAi?label=%40qxresearchAi&style=social)](https://twitter.com/qxresearchAi)
     <img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/google-chrome">
+    [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o-Q_jhZI25Gl2lCTTHKsQWktLZgaNF_Z?usp=sharing)
 
 MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landmarks in real-time even on mobile devices. It employs machine learning (ML) to infer the 3D surface geometry, requiring only a single camera input without the need for a dedicated depth sensor. Utilizing lightweight model architectures together with GPU acceleration throughout the pipeline, the solution delivers real-time performance critical for live experiences.
 
@@ -40,10 +41,14 @@ MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landm
 
 Using mediapipe we will estimate 468 face landmarks in live video, which could be really helpful in AR effects utilizing facial surface geometry and face recognition. In the demo website you'll be able to see your unique facial landmarks. In this project we've also used partial static image to discovere as much landmarks as possible.
 
+---
+
 YouTube : [@qxresearch/mediapipe-face-mesh]()
 <br>
 Live Demo : [Your-face-mesh]()
 
 Tags : `mediapipe` `face-mesh` `openCV` `python` `facial-landmark-detection`
 
-Google Colab : https://colab.research.google.com/drive/1o-Q_jhZI25Gl2lCTTHKsQWktLZgaNF_Z?usp=sharing
+Google Colab : [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o-Q_jhZI25Gl2lCTTHKsQWktLZgaNF_Z?usp=sharing)
+
+
