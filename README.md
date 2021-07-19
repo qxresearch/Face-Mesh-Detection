@@ -28,7 +28,7 @@ MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landm
 </p>
 
 <p align="center">
-  Results : Video
+  Results : Web Camera
 </p>
 
 
