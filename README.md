@@ -42,6 +42,16 @@ MediaPipe Face Mesh is a face geometry solution that estimates 468 3D face landm
 Using mediapipe we will estimate 468 face landmarks in live video, which could be really helpful in AR effects utilizing facial surface geometry and face recognition. In the demo website you'll be able to see your unique facial landmarks. In this project we've also used partial static image to discovere as much landmarks as possible.
 
 ---
+### Citation (MediaPipe)
+```
+@article{lugaresi2019mediapipe,
+  title={Mediapipe: A framework for building perception pipelines},
+  author={Lugaresi, Camillo and Tang, Jiuqiang and Nash, Hadon and McClanahan, Chris and Uboweja, Esha and Hays, Michael and Zhang, Fan and Chang, Chuo-Ling and Yong, Ming Guang and Lee, Juhyun and others},
+  journal={arXiv preprint arXiv:1906.08172},
+  year={2019}
+}
+```
+---
 
 YouTube : [@qxresearch/mediapipe-face-mesh]()
 <br>
